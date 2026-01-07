@@ -1,0 +1,42 @@
+RL Factory
+Copyright 2026 Patrick Michael O'Keeffe
+
+This product includes software developed by third parties.
+
+fuzzylite
+Copyright © Juan Rada-Vilela
+Used for fuzzy logic control and inference.
+Project: fuzzylite (Fuzzy Logic Control Library)
+
+NumPy
+Copyright © NumPy Developers
+Used for numerical computation.
+
+pandas
+Copyright © pandas Development Team
+Used for data manipulation and analysis.
+
+PyTorch
+Copyright © PyTorch Contributors
+Used for tensor computation and machine learning.
+
+Gymnasium
+Copyright © Farama Foundation
+Used for reinforcement learning environments.
+Originally derived from OpenAI Gym.
+
+scikit-learn (sklearn.utils.random)
+Copyright © scikit-learn Developers
+Used for random utilities and sampling functions.
+
+xanfis
+Copyright © Nguyen Van Thieu
+Used for adaptive neuro-fuzzy inference systems.
+
+This product is informed by concepts and algorithms described in:
+
+"The FuzzyLite Libraries for Fuzzy Logic Control"
+Juan Rada-Vilela
+This reference is cited for academic and conceptual purposes only and does not imply inclusion of the paper’s text or figures.
+
+All third-party software is redistributed or used in accordance with their respective licenses.
